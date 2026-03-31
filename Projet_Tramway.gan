@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet Tramway " company="1STI2D" webLink="http://" view-date="2026-03-12" view-index="0" gantt-divider-location="352" resource-divider-location="300" version="3.3.3320" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet Tramway " company="1STI2D" webLink="http://" view-date="2026-03-11" view-index="0" gantt-divider-location="352" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="201" order="0"/>
@@ -45,6 +45,8 @@
         <task id="1" uid="6807b15f1ee2465ea514ac10f14e97cd" name="Recherche de solutions" meeting="false" start="2026-03-13" duration="1" complete="100" expand="true"/>
         <task id="2" uid="9af603e691814d09a741684efbf632f3" name="Diagrammes des exigences et bloc (Draw.io)" meeting="false" start="2026-03-20" duration="3" complete="100" webLink="https%3A%2F%2Fraw.githubusercontent.com%2FHUGO503-sys%2FProjet-Tramway%2Frefs%2Fheads%2Fmain%2Fdiagramme%2520des%2520exigences%2FCapture%2520d%27%25C3%25A9cran%25202026-03-24%2520091331.png" expand="true"/>
         <task id="3" uid="7a6beb7035c545139e935c0d7e33c23d" name="Chaine d'information(barrière de sécurité)" meeting="false" start="2026-03-24" duration="1" complete="100" webLink="https%3A%2F%2Fraw.githubusercontent.com%2FHUGO503-sys%2FProjet-Tramway%2Frefs%2Fheads%2Fmain%2FChaine%2520d%27information%2FCapture%2520d%27%25C3%25A9cran%25202026-03-24%2520094947.png" expand="true"/>
+        <task id="6" uid="bc6f0ec4c0b342c79c40366f12159ec4" name="modelisation 3 d" meeting="false" start="2026-03-12" duration="15" complete="99" expand="true"/>
+        <task id="7" uid="b9a7236013ef491bb06aed3b6284b74f" name="programmation parking" meeting="false" start="2026-03-11" duration="1" complete="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Elouan" function="1" contacts="" phone=""/>
