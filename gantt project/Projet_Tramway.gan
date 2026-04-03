@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Projet Tramway " company="1STI2D" webLink="http://" view-date="2026-03-11" view-index="0" gantt-divider-location="352" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Projet Tramway " company="1STI2D" webLink="http://" view-date="2026-03-11" view-index="0" gantt-divider-location="227" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd3" name="Nom" width="201" order="0"/>
-        <field id="tpd4" name="Date de début" width="75" order="1"/>
-        <field id="tpd5" name="Date de fin" width="75" order="2"/>
+        <field id="tpd3" name="Nom" width="74" order="0"/>
+        <field id="tpd4" name="Date de début" width="74" order="1"/>
+        <field id="tpd5" name="Date de fin" width="78" order="2"/>
         <field id="tpd15" name="Notes" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
         <option id="filter.overdueTasks" value="false"/>
         <option id="filter.inProgressTodayTasks" value="false"/>
-        <timeline><![CDATA[0,1]]></timeline>
+        <timeline><![CDATA[1,0]]></timeline>
     </view>
     <view id="resource-table">
         <field id="0" name="Nom" width="210" order="0"/>
@@ -40,13 +40,13 @@
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
         <task id="0" uid="25e04abdb1f94959b0a10154ffbc0b9f" name="Dessin du croquis" meeting="false" start="2026-03-13" duration="1" complete="100" webLink="https%3A%2F%2Fraw.githubusercontent.com%2FHUGO503-sys%2FProjet-Tramway%2Frefs%2Fheads%2Fmain%2FCroquis%2F651008928_2003062103896715_7899098059348493755_n.jpg" expand="true"/>
-        <task id="5" uid="1323b7abcf304bfe96356f37e8fc3dd8" name="conception 3D (barrière de sécurité)" meeting="false" start="2026-03-24" duration="1" complete="0" expand="true"/>
+        <task id="5" uid="1323b7abcf304bfe96356f37e8fc3dd8" name="conception 3D (barrière de sécurité)" meeting="false" start="2026-03-24" duration="1" complete="100" expand="true"/>
         <task id="4" uid="8ad19021baa645fe861eb2082af414a5" name="chaine de puissance (barrière de sécurité)" meeting="false" start="2026-03-24" duration="1" complete="100" webLink="https%3A%2F%2Fraw.githubusercontent.com%2FHUGO503-sys%2FProjet-Tramway%2Frefs%2Fheads%2Fmain%2FChaine%2520de%2520puissance%2FCapture%2520d%27%25C3%25A9cran%25202026-03-24%2520170921.png" expand="true"/>
         <task id="1" uid="6807b15f1ee2465ea514ac10f14e97cd" name="Recherche de solutions" meeting="false" start="2026-03-13" duration="1" complete="100" expand="true"/>
         <task id="2" uid="9af603e691814d09a741684efbf632f3" name="Diagrammes des exigences et bloc (Draw.io)" meeting="false" start="2026-03-20" duration="3" complete="100" webLink="https%3A%2F%2Fraw.githubusercontent.com%2FHUGO503-sys%2FProjet-Tramway%2Frefs%2Fheads%2Fmain%2Fdiagramme%2520des%2520exigences%2FCapture%2520d%27%25C3%25A9cran%25202026-03-24%2520091331.png" expand="true"/>
         <task id="3" uid="7a6beb7035c545139e935c0d7e33c23d" name="Chaine d'information(barrière de sécurité)" meeting="false" start="2026-03-24" duration="1" complete="100" webLink="https%3A%2F%2Fraw.githubusercontent.com%2FHUGO503-sys%2FProjet-Tramway%2Frefs%2Fheads%2Fmain%2FChaine%2520d%27information%2FCapture%2520d%27%25C3%25A9cran%25202026-03-24%2520094947.png" expand="true"/>
         <task id="6" uid="bc6f0ec4c0b342c79c40366f12159ec4" name="modelisation 3 d" meeting="false" start="2026-03-12" duration="15" complete="99" expand="true"/>
-        <task id="7" uid="b9a7236013ef491bb06aed3b6284b74f" name="programmation parking" meeting="false" start="2026-03-11" duration="1" complete="0" expand="true"/>
+        <task id="7" uid="b9a7236013ef491bb06aed3b6284b74f" name="programmation parking" meeting="false" start="2026-03-31" duration="2" complete="100" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Elouan" function="1" contacts="" phone=""/>
